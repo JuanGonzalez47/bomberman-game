@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image_bust">
+        <file>Images/explosion1.png</file>
+        <file>Images/explosion2.png</file>
+        <file>Images/explosion3.png</file>
+        <file>Images/explosion4.png</file>
+    </qresource>
+</RCC>

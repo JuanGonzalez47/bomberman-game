@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/bomberma_sprites.png</file>
+        <file>Images/fondo.png</file>
+    </qresource>
+</RCC>
